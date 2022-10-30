@@ -1,7 +1,9 @@
+/*Feel free to remove these styles or customise in your own stylesheet 👍*/
+
 body {
 	background-color: lightgrey;
 	height: 100vh;
-	padding-top: 3%;
+	padding-top: 5%;
 }
 
 .container {
@@ -19,7 +21,8 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-color: red;
-	height: 33vh;
+	height: 36vh;
+	width: 36vh;
 	border-radius: 5%;
 }
 p {
@@ -43,5 +46,13 @@ p {
       padding: 0% 1%;
       width: ;
       background-color: lightgrey;
-  }
+      font-size: 11px;
+      text-align: center;
+      margin-left: 30%;
+ }
+ .attribution a {
+ 	color: hsl(228, 45%, 44%);
+     text-decoration: none;
+}
+
 
