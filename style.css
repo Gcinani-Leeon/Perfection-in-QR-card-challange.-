@@ -1,0 +1,45 @@
+body {
+	background-color: lightgrey;
+}
+
+.container {
+	width: fit-content;
+	border: none;
+	margin-left: 41%;
+	background-color: white;
+	border-radius: 5%;
+	padding: 1% 1% 2% 1%;
+}
+
+.QR-code {
+	/*background-image: url("./images/image-qr-code.png");*/
+	background-image: url("image-qr-code.png");
+	background-position: center;
+	background-size: cover;
+	background-color: red;
+	height: 33vh;
+	border-radius: 5%;
+}
+p {
+	border: none;
+	text-align: center;
+	font-family: sans-serif;
+}
+ .a{
+ 	font-weight: bold;
+ 	font-size: 70%;
+ }
+ .b{
+ 	font-size: 60%;
+ 	color: gray;
+
+ }
+
+ .attribution {
+      font-size: 11px;
+      text-align: center;
+      padding: 0% 1%;
+      width: ;
+      background-color: lightgrey;
+  }
+
